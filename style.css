@@ -1,0 +1,12 @@
+body{
+    background-color:lightseagreen;
+}
+.noob{
+    bottom: 0;
+    position: fixed;
+}
+canvas{
+    border: 5px dotted dodgerblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+}
